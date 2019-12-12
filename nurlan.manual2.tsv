@@ -52,7 +52,7 @@
 52	жену	жена	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	45	appos	_	_
 53	у	у	ADP	_	_	54	case	_	_
 54	Нурлана	Нурлан	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	52	nmod	_	_
-55	кстати	кстати	PRED	_	_	59	advmod	_	_
+55	кстати	кстати	ADV	_	_	59	advmod	_	_
 56	красотка	красотка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	59	nsubj	_	_
 57	жена	жена	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	56	nmod	_	_
 58	/	/	PUNCT	_	_	57	punct	_	_
@@ -602,7 +602,7 @@
 602	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	596	nsubj	_	_
 603	кто	кто	PRON	_	Case=Nom	609	nsubj	_	_
 604	/	/	PUNCT	_	_	607	punct	_	_
-605	во-первых	во-первых	PRED	_	_	607	parataxis	_	_
+605	во-первых	во-первых	ADV	_	_	607	parataxis	_	_
 606	/	/	PUNCT	_	_	604	punct	_	_
 607	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	607	nsubj	_	_
 608	говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	609	parataxis	_	_
@@ -676,7 +676,7 @@
 676	ну	ну	PART	_	_	676	discourse	_	_
 677	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	674	nsubj	_	_
 678	мудак	мудак	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	678	advmod	_	_
-679	конечно	конечно	PRED	_	_	674	advmod	_	_
+679	конечно	конечно	ADV	_	_	674	advmod	_	_
 680	/	/	PUNCT	_	_	681	punct	_	_
 681	но	но	CCONJ	_	_	681	cc	_	_
 682	смеется	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	674	conj	_	_
