@@ -342,7 +342,7 @@
 342	ну	ну	PART	_	_	_	_	_	@ad1994m-words#@ad1994m#527.95#528.21
 343	ээ	эээ	INTJ	_	_	_	_	_	@ad1994m-words#@ad1994m#528.21#528.47
 344	/	/	PUNCT	_	_	_	_	_	@ad1994m-words#@ad1994m#528.47#528.73
-345	возможно	возможно	PRED	_	_	_	_	_	@ad1994m-words#@ad1994m#528.73#528.99
+345	возможно	возможно	ADV	_	_	_	_	_	@ad1994m-words#@ad1994m#528.73#528.99
 346	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@ad1994m-words#@ad1994m#528.99#529.25
 347	имел	иметь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@ad1994m-words#@ad1994m#529.25#529.51
 348	в	в	ADP	_	_	_	_	_	@ad1994m-words#@ad1994m#529.51#529.77
@@ -395,7 +395,7 @@
 395	аа	ааа	INTJ	_	_	_	_	_	@ad1994m-words#@ad1994m#544.352#544.65
 396	но	но	CCONJ	_	_	_	_	_	@ad1994m-words#@ad1994m#545.68#546.026
 397	/	/	PUNCT	_	_	_	_	_	@ad1994m-words#@ad1994m#546.026#546.372
-398	конечно	конечно	PRED	_	_	_	_	_	@ad1994m-words#@ad1994m#546.372#546.718
+398	конечно	конечно	ADV	_	_	_	_	_	@ad1994m-words#@ad1994m#546.372#546.718
 399	же	же	PART	_	_	_	_	_	@ad1994m-words#@ad1994m#546.718#547.064
 400	как	как	SCONJ	_	_	_	_	_	@ad1994m-words#@ad1994m#547.064#547.41
 401	и	и	CCONJ	_	_	_	_	_	@ad1994m-words#@ad1994m#547.41#547.756
@@ -501,7 +501,7 @@
 501	/	/	PUNCT	_	_	_	_	_	@ad1994m-words#@ad1994m#583.776#584.122
 502	в	в	ADP	_	_	_	_	_	@ad1994m-words#@ad1994m#584.122#584.468
 503	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	@ad1994m-words#@ad1994m#584.468#584.814
-504	конечно	конечно	PRED	_	_	_	_	_	@ad1994m-words#@ad1994m#584.814#585.16
+504	конечно	конечно	ADV	_	_	_	_	_	@ad1994m-words#@ad1994m#584.814#585.16
 505	же	же	PART	_	_	_	_	_	@ad1994m-words#@ad1994m#585.16#585.506
 506	/	/	PUNCT	_	_	_	_	_	@ad1994m-words#@ad1994m#585.506#585.852
 507	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@ad1994m-words#@ad1994m#585.852#586.198
@@ -585,7 +585,7 @@
 585	ни	ни	PART	_	_	_	_	_	@ad1994m-words#@ad1994m#611.89#612.19
 586	разу	раз	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	_	_	_	@ad1994m-words#@ad1994m#612.19#612.49
 587	/	/	PUNCT	_	_	_	_	_	@ad1994m-words#@ad1994m#612.49#612.79
-588	значит	значит	PRED	_	_	_	_	_	@ad1994m-words#@ad1994m#612.79#613.09
+588	значит	значит	ADV	_	_	_	_	_	@ad1994m-words#@ad1994m#612.79#613.09
 589	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	@ad1994m-words#@ad1994m#613.09#613.39
 590	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@ad1994m-words#@ad1994m#613.39#613.69
 591	лучше	хороший	ADJ	_	Degree=Cmp	_	_	_	@ad1994m-words#@ad1994m#613.69#613.99
@@ -620,9 +620,9 @@
 620	не	не	PART	_	_	_	_	_	@ad1994m-words#@ad1994m#622.39#622.69
 621	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@ad1994m-words#@ad1994m#622.69#622.99
 622	/	/	PUNCT	_	_	_	_	_	@ad1994m-words#@ad1994m#622.99#623.29
-623	значит	значит	PRED	_	_	_	_	_	@ad1994m-words#@ad1994m#623.29#623.59
+623	значит	значит	ADV	_	_	_	_	_	@ad1994m-words#@ad1994m#623.29#623.59
 624	этот...	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	@ad1994m-words#@ad1994m#623.59#623.89
-625	значит	значит	PRED	_	_	_	_	_	@ad1994m-words#@ad1994m#623.89#624.19
+625	значит	значит	ADV	_	_	_	_	_	@ad1994m-words#@ad1994m#623.89#624.19
 626	что-то	что-то	PRON	_	Case=Nom	_	_	_	@ad1994m-words#@ad1994m#624.19#624.49
 627	ээ	эээ	INTJ	_	_	_	_	_	@ad1994m-words#@ad1994m#624.49#624.79
 628	/	/	PUNCT	_	_	_	_	_	@ad1994m-words#@ad1994m#624.79#625.09
@@ -853,7 +853,7 @@
 853	этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	@ad1994m-words#@ad1994m#708.026#708.424
 854	стремимся	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	@ad1994m-words#@ad1994m#708.424#708.9
 855	#смех#	#смех#	X	_	_	_	_	_	@ad1994m-words#@ad1994m#720.125#720.514
-856	вообще	вообще	PRED	_	_	_	_	_	@ad1994m-words#@ad1994m#721.117#721.531
+856	вообще	вообще	ADV	_	_	_	_	_	@ad1994m-words#@ad1994m#721.117#721.531
 857	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@ad1994m-words#@ad1994m#721.531#721.945
 858	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	@ad1994m-words#@ad1994m#721.945#722.359
 859	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@ad1994m-words#@ad1994m#722.359#722.773
@@ -953,7 +953,7 @@
 953	появятся	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	@ad1994m-words#@ad1994m#761.8#762.125
 954	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	@ad1994m-words#@ad1994m#762.125#762.45
 955	/	/	PUNCT	_	_	_	_	_	@ad1994m-words#@ad1994m#762.45#762.775
-956	вообще	вообще	PRED	_	_	_	_	_	@ad1994m-words#@ad1994m#762.775#763.1
+956	вообще	вообще	ADV	_	_	_	_	_	@ad1994m-words#@ad1994m#762.775#763.1
 957	/	/	PUNCT	_	_	_	_	_	@ad1994m-words#@ad1994m#763.1#763.425
 958	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@ad1994m-words#@ad1994m#763.425#763.75
 959	вот	вот	PART	_	_	_	_	_	@ad1994m-words#@ad1994m#763.75#764.075
